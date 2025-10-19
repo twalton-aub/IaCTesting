@@ -21,7 +21,8 @@ def main():
     print("Testing branch")
     
     files = Util().get_files(base_dir)
-#    print(files)
+    # Uncommented the line below
+    print(files)
     
 #    quit()
     
